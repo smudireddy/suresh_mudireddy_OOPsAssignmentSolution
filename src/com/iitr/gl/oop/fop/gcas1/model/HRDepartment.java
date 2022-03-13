@@ -20,7 +20,7 @@ public class HRDepartment extends Department {
 	public String getWorkDeadlineWork() {
 		return "Complete by EOD";
 	}
-	
+
 	public String doActivity() {
 		return "Team Lunch";
 	}
