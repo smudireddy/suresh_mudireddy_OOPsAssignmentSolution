@@ -20,7 +20,7 @@ public class TechDepartment extends Department {
 	public String getWorkDeadlineWork() {
 		return "Complete by EOD";
 	}
-	
+
 	public String getTechStackinformation() {
 		return "core java";
 	}

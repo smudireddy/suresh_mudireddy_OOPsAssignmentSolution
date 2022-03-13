@@ -3,18 +3,18 @@ package com.iitr.gl.oop.fop.gcas1.model;
 public class Department {
 
 	public String departmentName() {
-	   return "Super Department";	
+		return "Super Department";
 	}
-	
+
 	public String getTodaysWork() {
-		return "No Work as of now";	
+		return "No Work as of now";
 	}
-	
+
 	public String getWorkDeadlineWork() {
-		return null;	
+		return null;
 	}
-	
+
 	public String isTodayAHoliday() {
-		return "Today is not a Holiday";	
+		return "Today is not a Holiday";
 	}
 }

@@ -8,7 +8,7 @@ public class AdminDepartment extends Department {
 
 	@Override
 	public String departmentName() {
-		
+
 		return "Admin Department";
 	}
 
